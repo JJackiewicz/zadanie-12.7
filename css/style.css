@@ -6,7 +6,7 @@ body .flex-container .column { display: -ms-flexbox; display: flex; -ms-flex-dir
 
 body .flex-container .column .btn { margin: 5px; }
 
-body .flex-container .column ul { list-style-type: none; padding-left: 0; }
+body .flex-container .column ul { list-style-type: none; padding-left: 0; min-height: 50px; }
 
 body .flex-container .column ul .card { min-width: 200px; width: 100%; cursor: pointer; }
 
